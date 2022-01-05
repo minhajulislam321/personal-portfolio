@@ -64,8 +64,34 @@ h1{
      background-repeat: no-repeat;
 
  }   
- .experience-border{
-     width: 50%;
-     padding: 2%;
+ .experience-box{
+     width: 40%;
+     padding: 10px;
+     margin-left: 4%;
+     margin-right: 4%;
+     box-shadow: 10px 10px 10px gray;
+     border-radius: 10px;
+     border: solid gray;
+     
+     
  }
-
+ .experience-box h1{
+     font-size: 38px;
+ }
+ .experience{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+     margin-bottom: 10%;
+ }
+ .footer{
+     text-align: center;
+     padding: 10px;
+     color: gray;
+ }
+ .experience h1{
+     margin-left: 5%;
+ }
+ .experience-box h1{
+     margin-left: 0%;
+ }
