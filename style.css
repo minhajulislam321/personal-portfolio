@@ -15,6 +15,9 @@ h1{
     width: 60%;
     padding-left: 5%;
 }
+.half-width p{
+    color: rgb(85, 84, 84);
+}
 .half-width-img{
     padding-left: 5%;
     margin-top: 30px;
@@ -44,6 +47,9 @@ h1{
 .dream-big-texts{
     width: 70%;
     margin-right: 10%;
+}
+.dream-big-texts p{
+    color: rgb(85, 84, 84);
 }
 .dreambig-button{
     text-decoration: none;
@@ -77,6 +83,9 @@ h1{
  }
  .experience-box h1{
      font-size: 38px;
+ }
+ .experience-box p{
+     color: rgb(85, 84, 84);
  }
  .experience{
      background-image: url(images/exp-bg.png);
